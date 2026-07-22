@@ -317,6 +317,6 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
 
 <div align="center">
 
-Built with ❤️ by [Nidhish Suvarna](https://github.com/Nidhish-0810)
+Built by [Nidhish Suvarna](https://github.com/Nidhish-0810)
 
 </div>
